@@ -1,2 +1,2 @@
 # 21DaysofRTL
-just me doing 21 questionf on RTL basics
+just me doing 21 question on RTL basics
